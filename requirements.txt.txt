@@ -1,0 +1,10 @@
+streamlit
+transformers
+sentence-transformers
+faiss-cpu
+torch
+python-docx
+python-pptx
+PyPDF2
+markdown
+pandas
